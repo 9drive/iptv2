@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="IPTV",mnctv
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:-1 group-title="IPTV",mnctv2
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
 #EXTINF:-1 group-title="IPTV",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",INDOSIAR
